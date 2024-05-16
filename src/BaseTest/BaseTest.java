@@ -18,6 +18,7 @@ static WebDriver driver;
 		
 		
 		System.out.println("New Final Commit1 ");
+		System.out.println("Last  Commit1 ");
 	}
 
 }

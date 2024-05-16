@@ -32,6 +32,8 @@ public class BootstrapHandling {
 		 
 ////		 for(WebElement textallOpertor:allOperator) {
 ////			  String text2=textallOpertor.getText();
+		
+		System.out.println("Last  Commit2 ");
 ////			 
 //		  }
 		       

@@ -15,6 +15,9 @@ static WebDriver driver;
 		driver.get(url);
 		
 		return driver;
+		
+		
+		System.out.println("New Final Commit1 ");
 	}
 
 }

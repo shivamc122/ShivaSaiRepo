@@ -7,6 +7,8 @@ public class BaseTest {
 static WebDriver driver; 
 	
 	public static WebDriver initBrowser(String url)
+	System.out.println("1111");
+	System.out.println("2222 ");
 	{
 		 driver = new ChromeDriver();
 		
